@@ -1,0 +1,16 @@
+./gestiondecuves/Controleur.java
+
+./gestiondecuves/metier/Cuve.java
+./gestiondecuves/metier/Structure.java
+
+./gestiondecuves/ihm/cuves/AutoPlay.java
+./gestiondecuves/ihm/cuves/FrameCuves.java
+./gestiondecuves/ihm/cuves/MenuCuves.java
+./gestiondecuves/ihm/cuves/PanelPeinture.java
+./gestiondecuves/ihm/cuves/PanelBarre.java
+./gestiondecuves/ihm/cuves/PanelParametre.java
+
+./gestiondecuves/ihm/nouveau/FrameNouveau.java
+./gestiondecuves/ihm/nouveau/PanelNbCuves.java
+./gestiondecuves/ihm/nouveau/PanelCapacites.java
+./gestiondecuves/ihm/nouveau/PanelLiaisons.java
