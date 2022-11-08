@@ -1,0 +1,6 @@
+lstAdj
+A	200	B6	D7	
+B	300	A6	C4	D10	
+C	400	B4	E4	
+D	500	A7	B10	
+E	600	C4	
